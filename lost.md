@@ -6,7 +6,7 @@ permalink: lost/
 
 <img src="/images/i-am-lost.jpg">
 
-<p>You probably ended up here after scanning the QR code on my tag!</p>
+<p>You probably ended up here after scanning the QR code on my necklace!</p>
 <p>So what should you do now?!</p>
 
 # Please get in touch with my parents!
