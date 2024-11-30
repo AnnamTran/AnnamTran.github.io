@@ -43,4 +43,4 @@ permalink: lost/
     </div>
 </div>
 
-<script src="lost.js"></script>
+<script src="/js/lost.js"></script>
