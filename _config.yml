@@ -6,10 +6,10 @@
 name: Annam
 
 # Short bio or description (displayed in the header)
-description:
+description: "Journey Through My Mind"
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/AnnamTran/annamtran.github.io/master/images/logo.png
+avatar: "/images/logo.jpg"
 
 #
 # Flags below are optional
