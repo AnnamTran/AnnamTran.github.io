@@ -45,6 +45,7 @@ permalink: lost/
 
 <script src="/js/lost.js"></script>
 
+<script>window.onload = getLocation;</script>
 <button id="locbutton" class="btn" style="display:none" onclick="getLocation()">Click here to share your location with my parents</button>
 
 <p id="message2" style="display:none;">Thanks for sharing!</p>
