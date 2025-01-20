@@ -23,7 +23,7 @@ permalink: lost/
         <p>
             <ul>
                 <li>call/text him at +49 152 24341705</li>
-                <li>message him on: <a href="https://wa.me/4915224341705">WhatsApp</a></li>
+                <li>message him on <a href="https://wa.me/4915224341705">WhatsApp</a></li>
                 <li><a href="mailto:trvinh@gmail.com">email</a> at trvinh@gmail.com</li>
             </ul>
         </p>
