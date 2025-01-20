@@ -22,9 +22,9 @@ permalink: lost/
         <h2>👨🏽 Vinh</h2>
         <p>
             <ul>
-                <li>call/text him at +49 152 xxx</li>
-                <li>message him on: <a href="https://wa.me/49152xxx">WhatsApp</a></li>
-                <li><a href="mailto:abc@gmail.com">email</a> at abc@gmail.com</li>
+                <li>call/text him at +49 152 24341705</li>
+                <li>message him on: <a href="https://wa.me/4915224341705">WhatsApp</a></li>
+                <li><a href="mailto:trvinh@gmail.com">email</a> at trvinh@gmail.com</li>
             </ul>
         </p>
 
@@ -34,9 +34,9 @@ permalink: lost/
         <h2>👩🏻 Thuy</h2>
         <p>
             <ul>
-                <li>call/text her at +49 176 yyy</li>
-                <li>message her on <a href="https://wa.me/49176yyy">WhatsApp</a></li>
-                <li><a href="mailto:xyz@gmail.com">email</a> at xyz@gmail.com</li>
+                <li>call/text her at +49 176 71214991</li>
+                <li>message her on <a href="https://wa.me/4917671214991">WhatsApp</a></li>
+                <li><a href="mailto:thuyduong0217@gmail.com">email</a> at thuyduong0217@gmail.com</li>
             </ul>
         </p>
 
@@ -45,7 +45,6 @@ permalink: lost/
 
 <script src="/js/lost.js"></script>
 
-<script>window.onload = getLocation;</script>
 <button id="locbutton" class="btn" style="display:none" onclick="getLocation()">Click here to share your location with my parents</button>
 
 <p id="message2" style="display:none;">Thanks for sharing!</p>
