@@ -1,7 +1,7 @@
 ---
 title: Oh no, I'm lost! 😭
 layout: page
-permalink: susu-lost/
+permalink: lost/
 ---
 
 <img src="/images/i-am-lost.jpg"/>
