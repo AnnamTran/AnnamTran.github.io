@@ -106,7 +106,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const currentPage = window.location.pathname;
 
   // Specify the page where elements should be hidden
-  if (currentPage === "/susu-lost/") { // Replace with your actual page path
+  if (currentPage === "/susu-lost/" || currentPage === "/404/") { // Replace with your actual page path
     // Hide the navigation links
     const nav = document.querySelector("header.masthead nav");
     if (nav) {
