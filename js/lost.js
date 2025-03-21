@@ -45,6 +45,11 @@ function getLocation() {
   }
 }
 
+// Disable this in order to not sending the location automatically when the page is loaded
+document.addEventListener("DOMContentLoaded", () => {
+  getLocation(); // Automatically request location on page load
+});
+
 // Function to send the position to the webhook
 function sendPosition(position) {
   const base_url = "https://tnv-ha.de/api/webhook/-zQkqfQFT8tFovZqgjuCbigGy+lOc";
