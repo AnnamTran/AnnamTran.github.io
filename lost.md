@@ -18,11 +18,22 @@ permalink: lost/
 
 <p>Many thanks!!! 🙏</p>
 
+# 🇻🇳 Xin vui lòng liên hệ với gia đình tôi càng sớm càng tốt. Con/em xin cám ơn! 🙏
+# 🇩🇪 Bitte kontaktieren Sie meine Familie so schnell wie möglich. Ich danke Ihnen von Herzen! 🙏
+
 <link rel="stylesheet" type="text/css" href="/css/custom.css">
 
 <div class="container">
   <div class="col">
-      <h2>👨🏽 Vinh</h2>
+      <h2>🦸‍♂️ My Uncle Quang (when in VIETNAM)</h2>
+      <p>
+          <ul>
+              <li>call/text him at 03796 06206</li>
+          </ul>
+      </p>
+  </div>
+  <div class="col">
+      <h2>👨🏽 Papa Vinh</h2>
       <p>
           <ul>
               <li>call/text him at +49 152 24341705</li>
@@ -32,7 +43,7 @@ permalink: lost/
       </p>
   </div>
 <div class="col">
-      <h2>👩🏻 Thuy</h2>
+      <h2>👩🏻 Mama Thuy</h2>
       <p>
           <ul>
               <li>call/text her at +49 176 71214991</li>
